@@ -1,5 +1,5 @@
-import gettingFileData from "../func/gettingFileData.js";
-import inputData from "../func/inputData.js";
+import gettingFileData from "./func/gettingFileData.js";
+import inputData from "./func/inputData.js";
 
 const buttonsInfo = document.querySelectorAll(".buttons");
 
